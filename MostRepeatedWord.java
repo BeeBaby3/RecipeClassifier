@@ -1,6 +1,7 @@
 	import java.io.FileReader;  
 	import java.util.ArrayList;  
 	import java.util.Arrays;
+        import java.io.BufferedReader;
   	 
 	public class MostRepeatedWord {  
      	 
